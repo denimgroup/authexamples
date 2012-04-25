@@ -1,0 +1,6 @@
+This is a simple project that is intended to demonstrate a couple of different
+non-standard authentication scenarios for folks to train their scanners and
+scanner operators on. Currently based on a single scenario in PHP, we'd love
+to add more scenarios.
+
+Questions/comments/updates? Please contact dan _at_ denimgroup.com
