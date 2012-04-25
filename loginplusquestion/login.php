@@ -21,6 +21,7 @@
 
 	function render_login_stuff()
 	{
+		echo("Hint: username=testuser and password=password might work<br />");
 		echo("Username: <input name='username' /><br />");
 		echo("Password: <input name='password' type='password' /><br>");
 		echo("<input type='submit' value='Log In' />");
@@ -39,6 +40,7 @@
 		$question_id = $question_data[0];
 		$question_text = $question_data[1];
 
+		echo("Hint: apple is a pretty good choice for all the questions<br />");
 		echo("Question: " . htmlentities($question_text) . "<br />\n");
 		echo("<input name='questions' type='hidden' value='" . $question_id . "' /><br />\n");
 		echo("Answer: <input name='answer_" . $question_id . "' /><br />\n");
