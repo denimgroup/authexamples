@@ -8,7 +8,7 @@
 			Or check out any of the examples:
 			<ul>
 				<!-- <li><a href="loginwithroles/">Standard login leading to a site where different roles can see different pages</a></li> -->
-				<li><a href="loginplusquestion/">Standard login plug a confirmation question</a> <a href="loginplusquestion/solutions.html">Solutions</a></li>
+				<li><a href="loginplusquestion/">Standard login plug a confirmation question</a> [<a href="loginplusquestion/solutions.html">Solutions</a>]</li>
 			</ul>
 		</p>
 	</body>
